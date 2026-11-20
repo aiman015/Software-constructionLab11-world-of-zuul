@@ -1,3 +1,124 @@
+aiman015
+Software-constructionLab11-world-of-zuul
+Repository navigation
+Code
+Issues
+Pull requests
+Agents
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+aiman015
+Software-constructionLab11-world-of-zuul
+Public
+Go to file
+t
+T
+aiman015
+aiman015
+Update README.TXT
+e031029
+ · 
+2 minutes ago
+Name		
+screenshots
+first commit
+6 minutes ago
+.gitignore
+first commit
+6 minutes ago
+ANSWERS.md
+first commit
+6 minutes ago
+Avatar.java
+first commit
+6 minutes ago
+AvatarView.java
+first commit
+6 minutes ago
+BarMeter.java
+first commit
+6 minutes ago
+Beamer.java
+first commit
+6 minutes ago
+Command.java
+first commit
+6 minutes ago
+CommandWord.java
+first commit
+6 minutes ago
+CommandWords.java
+first commit
+6 minutes ago
+ConsoleOutput.java
+first commit
+6 minutes ago
+FancyButton.java
+first commit
+6 minutes ago
+Game.java
+first commit
+6 minutes ago
+GameCharacter.java
+first commit
+6 minutes ago
+GameGUI.java
+first commit
+6 minutes ago
+GameOutput.java
+first commit
+6 minutes ago
+InstanceCounter.java
+first commit
+6 minutes ago
+Item.java
+first commit
+6 minutes ago
+MapPanel.java
+first commit
+6 minutes ago
+MessageType.java
+first commit
+6 minutes ago
+Overlay.java
+first commit
+6 minutes ago
+Parser.java
+first commit
+6 minutes ago
+Player.java
+first commit
+6 minutes ago
+Position.java
+first commit
+6 minutes ago
+README.TXT
+Update README.TXT
+2 minutes ago
+Room.java
+first commit
+6 minutes ago
+RoundedPanel.java
+first commit
+6 minutes ago
+StaticDemo.java
+first commit
+6 minutes ago
+Theme.java
+first commit
+6 minutes ago
+TimingTest.java
+first commit
+6 minutes ago
+package.bluej
+first commit
+6 minutes ago
+Repository files navigation
+README
 # 🏰 WORLD OF ZUUL – Escape the Haunted Castle
 ### Lab 11
 
@@ -110,3 +231,30 @@ Written answers to every exercise of **Chapter 6** are available in:
 
 
 *Explore the castle, collect the key, unlock the garden, and escape before time runs out!*
+About
+
+A dark-themed Java Swing version of the classic World of Zuul text adventure, with a GUI, map panel, avatar, items, and a win screen. Built with BlueJ.
+
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Contributors
+1
+ (1)
+@aiman015
+aiman015Aiman Farooq
+Languages
+Java
+100%
